@@ -1,0 +1,3 @@
+When: October 18, 2015
+What: Calculator app that does calculations server side and displays results on web. Want to deploy it on Heroku and link to personal website.
+Why: Andy gave me this assignment and I think it will help prep me for code fellows. To learn how to set up a full stack website. 
